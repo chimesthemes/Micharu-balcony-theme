@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "Chime in theyre natraul habitat#1553",
+        "name": "Micharu balcony theme",
+        "version": "1.0.0",
+        "license": "im gay"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1017170762051887215\/1018642706618134548\/download_38.jpeg",
+        "overlay_alpha": 1,
+        "blur_radius": 2
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "accent": -65288,
+        "active_channel": -16712193,
+        "mention_highlight": 1291780303,
+        "statusbar": -16711713,
+        "input_background": -8110684,
+        "blocked_bg": -8110684
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
